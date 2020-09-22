@@ -12,8 +12,8 @@
 */
 //獲得用
 Route::get('app', function () {
-    // return view('fb.check'); //提出用
-    return view('fb.mama'); //獲得用
+    return view('fb.check'); //提出用
+    // return view('fb.mama'); //獲得用
 });
 
 // m訴求 - OS識別x遷移
