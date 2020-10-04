@@ -4,13 +4,13 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>『激レア』バイト話題まとめ@5ch</title>
+        <title>『激レア』副業話題まとめ@5ch</title>
         <link href="{{ secure_asset('css/job.css') }}" rel="stylesheet">
         <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
     </head>
     <body>
         <header>
-            <p>『激レア』バイト話題まとめ@5ch</p>
+            <p>『激レア』副業話題まとめ@5ch</p>
         </header>
         
         <div class="big-body">
@@ -72,7 +72,7 @@
             </div>
         </div>
         <footer>
-            <p>『激レア』バイト話題まとめ@5ch</p>
+            <p>『激レア』副業話題まとめ@5ch</p>
         </footer>
     </body>
 </html>
