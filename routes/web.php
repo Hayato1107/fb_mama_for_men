@@ -11,7 +11,7 @@
 |
 */
 //獲得用
-Route::get('job', function () {
+Route::get('tp', function () {
     return view('fb.check'); //提出用
     // return view('fb.job'); //獲得用(2)
     
