@@ -13,19 +13,22 @@
 //獲得用
 Route::get('tp', function () {
     return view('fb.check'); //提出用
-    // return view('fb.pp'); //パパ活訴求 - 獲得用(3)
     // return view('fb.job'); //獲得用(2)
+    // return view('fb.pp'); //パパ活訴求 - 獲得用(3)
     
     // return view('fb.mama'); //獲得用
 });
 
 //確認用
 Route::get('cccheck', function () {
-    return view('fb.pp'); //パパ活訴求 - 獲得用(3)
-    // return view('fb.job'); //獲得用(2)
+    return view('fb.job'); //獲得用(2)
+    // return view('fb.pp'); //パパ活訴求 - 獲得用(3)
     
     // return view('fb.mama'); //獲得用
 });
 
-// m訴求 - OS識別x遷移
+// m訴求 - OS識別x遷移 for チャトレ
+Route::get('info', 'AdController@info');
+
+// m訴求 - OS識別x遷移 for パパ活
 Route::get('os', 'AdController@os');
