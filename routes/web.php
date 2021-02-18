@@ -13,8 +13,8 @@
 //獲得用
 Route::get('ins1', function () {
     return view('fb.check'); //提出用
-    // return view('fb.pp'); //パパ活訴求 - 獲得用(3)
     // return view('fb.newLive'); //獲得用(3)
+    // return view('fb.pp'); //パパ活訴求 - 獲得用(3)
     
     // return view('fb.job'); //獲得用(2)
     
@@ -23,8 +23,8 @@ Route::get('ins1', function () {
 
 //確認用
 Route::get('cccheck', function () {
-    return view('fb.pp'); //パパ活訴求 - 獲得用(3)
-    // return view('fb.newLive'); //獲得用(3)
+    return view('fb.newLive'); //獲得用(3)
+    // return view('fb.pp'); //パパ活訴求 - 獲得用(3)
     
     // return view('fb.job'); //獲得用(2)
     
