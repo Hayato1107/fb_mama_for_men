@@ -22,7 +22,8 @@ Route::get('ins1', function () {
 
 //確認用
 Route::get('cccheck', function () {
-    return view('fb.newLive'); //獲得用(3)
+    return view('fb.newcl'); //獲得用(3)
+    // return view('fb.newLive'); //獲得用(3)
     // return view('fb.pp'); //パパ活訴求 - 獲得用(3)
     
     // return view('fb.job'); //獲得用(2)
