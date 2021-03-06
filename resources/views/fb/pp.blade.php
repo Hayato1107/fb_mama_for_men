@@ -36,12 +36,11 @@
         <!--<p>※女性は完全無料! <span class="red">登録3分でパパ探し開始!</span></p>-->
         <p>※<span class="green">LINE友達追加</span>で、今なら<br><span class="red">今、最も初心者に稼ぎやすいパパ活</span>を紹介中!</p>
         <img src="{{ asset('image/campaign.png') }}">
-        <h1>始めた人は...</h1>
+        <h1>話題のアプリで始めた人は...</h1>
         <img src="{{ asset('image/newcl_2.png') }}">
         <img src="{{ asset('image/newcl_3.png') }}">
         <!--<img src="{{ asset('image/newcl_4.png') }}">-->
         <img src="{{ asset('image/newcl_5.png') }}">
-        <br>
         <br>
         <div class="button">
             <!--<a href="./os" target="_blank" class="btn-square-little-rich">公式ページはコチラ <i class="fas fa-chevron-circle-right"></i></a>-->
