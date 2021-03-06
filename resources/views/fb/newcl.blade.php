@@ -13,7 +13,7 @@
         <a href="./info"><img src="https://trading-ad.net/a-trade/banner/moa/moa_600x500_bluephone201712+chat.png"></a>
         <div class="body-button">
             <a href="./info" class="btn-square-shadow"><i class="fab fa-apple"></i> お仕事アプリはコチラ <i class="fas fa-arrow-circle-right"></i></a>
-            <p class="new-white">※リンク切れの場合、募集停止している場合がございます。</p>
+            <p class="new-white">※リンク切れの場合、<br>募集停止している場合がございます。</p>
         </div>
         <img src="{{ asset('image/campaign.png') }}">
         <img src="{{ asset('image/newcl_2.png') }}">
