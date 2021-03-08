@@ -13,7 +13,7 @@
         <!--<h1>遂に解禁された<span class="red">出会い系でのパパ活</span>利用<br>ライバルが少ないうちにパパをGET?!</h1>-->
         <h1>遂に募集解禁された在宅バイトとは!?<br><span class="red">『時給3000円〜』</span>も夢じゃない?!</h1>
         <div class="button">
-            <a href="https://lin.ee/LAceIGG" target="_blank" class="btn-square-little-rich">公式LINEで確認 <i class="fas fa-chevron-circle-right"></i></a>
+            <a href="https://lin.ee/uJkWIu3" target="_blank" class="btn-square-little-rich">公式LINEで確認 <i class="fas fa-chevron-circle-right"></i></a>
         </div>
         <!--<p>※女性は完全無料! <span class="red">登録3分でパパ探し開始!</span></p>-->
         <p>※<span class="green">LINE友達追加</span>で、<br>今なら<span class="red">新規募集キャンペーン</span>で</p>
@@ -27,12 +27,12 @@
         <!--<img src="{{ asset('image/p_manga_3.jpg') }}"></img>-->
         <!--<img src="{{ asset('image/p_manga_4.jpg') }}"></img>-->
         <h1>忙しい学生でも大丈夫！むしろ忙しい人向け！<br><span class="red">いつでも好きな時間・場所でOK!</span></h1>
-        <a href="https://lin.ee/LAceIGG" target="_blank" class="btn-square-little-rich"><img src="{{ asset('image/line_friend_add.png') }}"></img></a>
+        <a href="https://lin.ee/uJkWIu3" target="_blank" class="btn-square-little-rich"><img src="{{ asset('image/line_friend_add.png') }}"></img></a>
         <br>
         <br>
         <div class="button">
             <!--<a href="./os" target="_blank" class="btn-square-little-rich">公式ページはコチラ <i class="fas fa-chevron-circle-right"></i></a>-->
-            <a href="https://lin.ee/LAceIGG" target="_blank" class="btn-square-little-rich">公式LINEで確認 <i class="fas fa-chevron-circle-right"></i></a>
+            <a href="https://lin.ee/uJkWIu3" target="_blank" class="btn-square-little-rich">公式LINEで確認 <i class="fas fa-chevron-circle-right"></i></a>
         </div>
         <!--<p>※女性は完全無料! <span class="red">登録3分でパパ探し開始!</span></p>-->
         <p>※<span class="green">LINE友達追加</span>で、<br>今なら<span class="red">新規募集キャンペーン</span>で</p>
@@ -45,7 +45,7 @@
         <br>
         <div class="button">
             <!--<a href="./os" target="_blank" class="btn-square-little-rich">公式ページはコチラ <i class="fas fa-chevron-circle-right"></i></a>-->
-            <a href="https://lin.ee/LAceIGG" target="_blank" class="btn-square-little-rich">公式LINEで確認 <i class="fas fa-chevron-circle-right"></i></a>
+            <a href="https://lin.ee/uJkWIu3" target="_blank" class="btn-square-little-rich">公式LINEで確認 <i class="fas fa-chevron-circle-right"></i></a>
         </div>
         <p>※<span class="green">LINE友達追加</span>で、<br>今なら<span class="red">新規募集キャンペーン</span>で</p>
         <img src="{{ asset('image/campaign.png') }}">
