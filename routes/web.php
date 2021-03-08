@@ -23,6 +23,7 @@ Route::get('ins1', function () {
 //確認用
 Route::get('cccheck', function () {
     return view('fb.pp'); //パパ活訴求 - 獲得用(3)
+    // return view('fb.chatl'); //チャトレ訴求LINE@誘導 - 獲得用(4)
     
     // return view('fb.newcl'); //獲得用(3) - チャトレLP作ろうとして一旦停止
     // return view('fb.newLive'); //獲得用(3)
