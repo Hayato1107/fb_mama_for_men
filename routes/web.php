@@ -13,6 +13,8 @@
 //獲得用
 Route::get('ins1', function () {
     return view('fb.check'); //提出用
+    //リダイレクトLPへ切り替え - cccheckを変更
+    
     // return view('fb.pp'); //パパ活訴求 - 獲得用(3)
     
     // return view('fb.newLive'); //獲得用(3)
