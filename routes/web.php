@@ -20,21 +20,21 @@ Route::get('ins1', function () {
     // return view('fb.mama'); //獲得用
 });
 
-//確認用
-Route::get('cccheck', function () {
-    return view('fb.pp'); //パパ活訴求 - 獲得用(3)
-    // return view('fb.chatl'); //チャトレ訴求LINE@誘導 - 獲得用(4)
-    
-    // return view('fb.newcl'); //獲得用(3) - チャトレLP作ろうとして一旦停止
-    // return view('fb.newLive'); //獲得用(3)
-    
-    // return view('fb.job'); //獲得用(2)
-    
-    // return view('fb.mama'); //獲得用
-});
+// OS識別x遷移 for チャトレ
+Route::get('cccheck', 'AdController@info');
 
-// m訴求 - OS識別x遷移 for チャトレ
-Route::get('info', 'AdController@info');
+// //確認用
+// Route::get('cccheck', function () {
+//     return view('fb.pp'); //パパ活訴求 - 獲得用(3)
+//     // return view('fb.chatl'); //チャトレ訴求LINE@誘導 - 獲得用(4)
+    
+//     // return view('fb.newcl'); //獲得用(3) - チャトレLP作ろうとして一旦停止
+//     // return view('fb.newLive'); //獲得用(3)
+    
+//     // return view('fb.job'); //獲得用(2)
+    
+//     // return view('fb.mama'); //獲得用
+// });
 
 // m訴求 - OS識別x遷移 for パパ活
 Route::get('os', 'AdController@os');
