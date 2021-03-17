@@ -11,7 +11,7 @@
 |
 */
 //獲得用
-Route::get('a1', function () {
+Route::get('ins1', function () {
     return view('fb.check'); //提出用
     //リダイレクトLPへ切り替え - cccheckを変更
     
