@@ -16,7 +16,6 @@ Route::get('ins1', function () {
     //リダイレクトLPへ切り替え - cccheckを変更
     
     // return view('fb.pp'); //パパ活訴求 - 獲得用(3)
-    
     // return view('fb.newLive'); //獲得用(3)
     // return view('fb.job'); //獲得用(2)
     // return view('fb.mama'); //獲得用
