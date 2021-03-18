@@ -10,19 +10,19 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-// //獲得用
-// Route::get('ins1', function () {
-//     return view('fb.check'); //提出用
-//     //リダイレクトLPへ切り替え - cccheckを変更
+//獲得用
+Route::get('ins1', function () {
+    return view('fb.check'); //提出用
+    //リダイレクトLPへ切り替え - cccheckを変更
     
-//     // return view('fb.pp'); //パパ活訴求 - 獲得用(3)
-//     // return view('fb.newLive'); //獲得用(3)
-//     // return view('fb.job'); //獲得用(2)
-//     // return view('fb.mama'); //獲得用
-// });
+    // return view('fb.pp'); //パパ活訴求 - 獲得用(3)
+    // return view('fb.newLive'); //獲得用(3)
+    // return view('fb.job'); //獲得用(2)
+    // return view('fb.mama'); //獲得用
+});
 
 // OS識別x遷移 for チャトレ
-Route::get('ins1', 'AdController@info');
+Route::get('cccheck', 'AdController@info');
 
 // //確認用
 // Route::get('cccheck', function () {
